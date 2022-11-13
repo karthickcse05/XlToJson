@@ -1,0 +1,8 @@
+----------------------------------------------------------------------------------
+13-11-2022 11:58:44 Could not find file 'c:\code\test.xlxx'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access)
+   at XlToJson.Services.ConvertServices.XLToJson(String path) in C:\Users\irjvew\source\repos\XlToJson\XlToJson\Services\ConvertServices.cs:line 28
