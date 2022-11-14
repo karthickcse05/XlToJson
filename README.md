@@ -13,3 +13,5 @@ https://user-images.githubusercontent.com/40426955/201510372-a06a0aee-eb3d-471e-
     4. Successful file will get download in the desktop with the file name as employees.json.
     5. If we face any issues , logs will get written in logs txt file which is placed inside the logs folder in the desktop.
 
+### 🙅 Note:
+    1. .net 3.1 should be installed in the system in order to run the application 
